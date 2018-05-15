@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 3b99cc1c794849e42a8e3ab8a8d411a0
+timeCreated: 1525345124
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box007
+    100002: Box009
+    100004: coil_1
+    100006: Coil_2
+    100008: coil_3
+    100010: current
+    100012: currentholder
+    100014: Cylinder003
+    100016: //RootNode
+    100018: Magnet_1
+    100020: Magnet_2
+    100022: plastic
+    100024: plastic_2
+    100026: Rotor_padshivnik
+    100028: rotorpart
+    100030: RototrHold
+    400000: Box007
+    400002: Box009
+    400004: coil_1
+    400006: Coil_2
+    400008: coil_3
+    400010: current
+    400012: currentholder
+    400014: Cylinder003
+    400016: //RootNode
+    400018: Magnet_1
+    400020: Magnet_2
+    400022: plastic
+    400024: plastic_2
+    400026: Rotor_padshivnik
+    400028: rotorpart
+    400030: RototrHold
+    2100000: 'Material #90'
+    2100002: 08 - Default
+    2100004: 05 - Default
+    2100006: 16 - Default
+    2100008: 'Material #28'
+    2100010: 'Material #29'
+    2100012: 'Material #27'
+    2100014: 09 - Default
+    2100016: 07 - Default
+    2100018: 13 - Default
+    2300000: Box007
+    2300002: Box009
+    2300004: coil_1
+    2300006: Coil_2
+    2300008: coil_3
+    2300010: current
+    2300012: currentholder
+    2300014: Cylinder003
+    2300016: Magnet_1
+    2300018: Magnet_2
+    2300020: plastic
+    2300022: plastic_2
+    2300024: Rotor_padshivnik
+    2300026: rotorpart
+    2300028: RototrHold
+    3300000: Box007
+    3300002: Box009
+    3300004: coil_1
+    3300006: Coil_2
+    3300008: coil_3
+    3300010: current
+    3300012: currentholder
+    3300014: Cylinder003
+    3300016: Magnet_1
+    3300018: Magnet_2
+    3300020: plastic
+    3300022: plastic_2
+    3300024: Rotor_padshivnik
+    3300026: rotorpart
+    3300028: RototrHold
+    4300000: Box009
+    4300002: RototrHold
+    4300004: Magnet_1
+    4300006: Magnet_2
+    4300008: Rotor_padshivnik
+    4300010: Box007
+    4300012: coil_1
+    4300014: Coil_2
+    4300016: coil_3
+    4300018: current
+    4300020: currentholder
+    4300022: Cylinder003
+    4300024: plastic
+    4300026: plastic_2
+    4300028: rotorpart
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

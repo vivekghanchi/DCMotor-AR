@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Explore.cs">
+    <Files>
+      <File FileName="Assets\Script\rotation.cs" Line="21" Column="2" />
+      <File FileName="Assets\Script\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Quit.cs" Line="10" Column="2" />
+      <File FileName="Assets\Script\Explore.cs" Line="23" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
